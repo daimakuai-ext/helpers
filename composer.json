@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Encore\\Admin\\Helpers\\": "src/"
+            "Jblv\\Admin\\Helpers\\": "src/"
         }
     },
     "extra": {
