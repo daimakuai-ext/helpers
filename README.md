@@ -1,9 +1,9 @@
 daimakuai-ext/helpers
 =========================
 
-[![StyleCI](https://styleci.io/repos/97667375/shield?branch=master)](https://styleci.io/repos/97667375)
-[![Packagist](https://img.shields.io/packagist/l/laravel-admin-ext/helpers.svg?maxAge=2592000)](https://packagist.org/packages/laravel-admin-ext/helpers)
-[![Total Downloads](https://img.shields.io/packagist/dt/laravel-admin-ext/helpers.svg?style=flat-square)](https://packagist.org/packages/laravel-admin-ext/helpers)
+[![StyleCI](https://styleci.io/repos/99999/shield?branch=master)](https://styleci.io/repos/99999)
+[![Packagist](https://img.shields.io/packagist/l/daimakuai-ext-ext/helpers.svg?maxAge=2592000)](https://packagist.org/packages/daimakuai-ext-ext/helpers)
+[![Total Downloads](https://img.shields.io/packagist/dt/daimakuai-ext-ext/helpers.svg?style=flat-square)](https://packagist.org/packages/daimakuai-ext-ext/helpers)
 
 ## Installation
 
