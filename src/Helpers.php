@@ -2,11 +2,9 @@
 
 namespace Jblv\Admin\Helpers;
 
-use Illuminate\Support\Facades\Route;
 use Jblv\Admin\Admin;
 use Jblv\Admin\Auth\Database\Menu;
 use Jblv\Admin\Extension;
-
 
 class Helpers extends Extension
 {
@@ -75,11 +73,10 @@ class Helpers extends Extension
                 'title'     => 'Routes',
                 'icon'      => 'fa-list-alt',
                 'uri'       => 'helpers/routes',
-            ]
+            ],
         ];
 
         foreach ($menus as $menu) {
-
             $menu['parent_id'] = $root->id;
             $menu['order'] = $lastOrder++;
 
