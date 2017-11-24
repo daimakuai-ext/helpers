@@ -2,7 +2,6 @@
 
 namespace Jblv\Admin\Helpers\Controllers;
 
-
 use Exception;
 use Illuminate\Contracts\Support\Arrayable;
 use Illuminate\Routing\Controller;
